@@ -1,0 +1,37 @@
+# Core dependencies
+google-generativeai==0.3.2
+pillow==10.1.0
+opencv-python
+pytesseract
+pdf2image
+numpy
+matplotlib==3.8.2
+
+# Web application
+streamlit==1.32.0
+fastapi==0.104.1
+uvicorn==0.24.0
+python-multipart
+pydantic
+
+# Data processing
+pandas==2.1.4
+scikit-learn
+scipy
+
+# Testing
+pytest==7.4.3
+pytest-cov
+
+# Utilities
+python-dotenv==1.0.0
+tqdm
+requests==2.31.0
+jsonschema
+click
+
+# Documentation
+sphinx
+sphinx-rtd-theme
+
+PyPDF2==3.0.1 
